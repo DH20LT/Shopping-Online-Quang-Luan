@@ -1,4 +1,7 @@
-﻿namespace ShoppingOnline1.Models.Carts;
+﻿using System.Collections.Generic;
+using System.Linq;
+
+namespace ShoppingOnline1.Models.Carts;
 
 public class Cart
 {

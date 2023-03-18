@@ -1,4 +1,8 @@
-﻿namespace ShoppingOnline1.Models;
+﻿using System;
+using System.Collections.Generic;
+using Microsoft.Extensions.Logging;
+
+namespace ShoppingOnline1.Models;
 
 public class ProductRepository : IProductInterface
 {

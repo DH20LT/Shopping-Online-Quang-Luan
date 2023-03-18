@@ -1,4 +1,6 @@
-﻿namespace ShoppingOnline1.Models.ViewModals;
+﻿using System.Collections.Generic;
+
+namespace ShoppingOnline1.Models.ViewModals;
 
 public class ProductListViewModel
 {

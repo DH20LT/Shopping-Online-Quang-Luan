@@ -1,4 +1,6 @@
-﻿namespace ShoppingOnline1.Models.Orders;
+﻿using System.Linq;
+
+namespace ShoppingOnline1.Models.Orders;
 
 public interface IOrderRepository
 {

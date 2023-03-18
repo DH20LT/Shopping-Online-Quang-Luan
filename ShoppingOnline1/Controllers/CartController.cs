@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using System.Linq;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
 using ShoppingOnline1.Infrastructure;
 using ShoppingOnline1.Models;
 using ShoppingOnline1.Models.Carts;

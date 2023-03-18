@@ -1,4 +1,6 @@
-﻿namespace ShoppingOnline1.Models;
+﻿using System.Collections.Generic;
+
+namespace ShoppingOnline1.Models;
 
 public interface IProductInterface
 {

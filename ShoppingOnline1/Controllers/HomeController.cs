@@ -1,5 +1,7 @@
 ﻿using System.Diagnostics;
+using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
 using ShoppingOnline1.Models;
 using ShoppingOnline1.Models.ViewModals;
 

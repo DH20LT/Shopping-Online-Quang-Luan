@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
-namespace ShoppingOnline.Migrations
+namespace ShoppingOnline1.Migrations
 {
     /// <inheritdoc />
     public partial class Init : Migration
@@ -59,7 +59,7 @@ namespace ShoppingOnline.Migrations
                     Shipped = table.Column<bool>(type: "INTEGER", nullable: false),
                     Name = table.Column<string>(type: "TEXT", nullable: false),
                     Address1 = table.Column<string>(type: "TEXT", nullable: false),
-                    Address2 = table.Column<string>(type: "TEXT", nullable: false),
+                    Address2 = table.Column<string>(type: "TEXT", nullable: true),
                     City = table.Column<string>(type: "TEXT", nullable: false),
                     Zip = table.Column<string>(type: "TEXT", nullable: false),
                     OrderPlaced = table.Column<DateTime>(type: "TEXT", nullable: false)
@@ -300,4 +300,3 @@ namespace ShoppingOnline.Migrations
         }
     }
 }
-
