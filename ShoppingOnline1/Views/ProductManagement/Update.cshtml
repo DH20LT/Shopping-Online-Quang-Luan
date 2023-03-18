@@ -1,0 +1,47 @@
+﻿@model ShoppingOnline.Models.ViewModals.UpdateViewModel
+
+@{
+    ViewBag.Title = "Update";
+    Layout = "_Layout";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<form asp-action="Update" enctype="multipart/form-data" method="post">
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <div class="form-group">
+        <label asp-for="Id">ID:</label>
+        <input asp-for="Id" type="text" class="form-control" id="input-id" aria-describedby="nameHelp" disabled="">
+    </div>
+    <div class="form-group">
+        <label asp-for="Name">Name:</label>
+        <input asp-for="Name" type="text" class="form-control" id="exampleInputName" aria-describedby="nameHelp">
+    </div>
+    <div class="form-group">
+        <label asp-for="ShortDescription">ShortDescription:</label>
+        <input asp-for="ShortDescription" type="text" class="form-control" id="exampleInputEmail" aria-describedby="emailHelp">
+    </div>
+    <div class="form-group">
+        <label asp-for="LongDescription">LongDescription: </label>
+        <input asp-for="LongDescription" type="text" class="form-control" placeholder="PhotoPath">
+    </div>
+    <div class="form-group">
+        <label asp-for="Category">Category: </label>
+        <input asp-for="Category" type="text" class="form-control" placeholder="PhotoPath">
+    </div>
+    <div class="form-group">
+        <label asp-for="Price">Price: </label>
+        <input asp-for="Price" type="number" class="form-control" placeholder="PhotoPath">
+    </div>
+    <div class="form-group">
+        <label asp-for="Stock">Stock: </label>
+        <input asp-for="Stock" type="number" class="form-control" placeholder="PhotoPath">
+    </div>
+    <div class="form-group">
+        <label asp-for="Image">File: </label>
+        <input asp-for="Image" type="file" class="form-control" placeholder="PhotoPath">
+    </div>
+    <div class="form-group p-5">
+        <button type="submit" asp-action="Update" class="btn btn-primary">Cập Nhật</button>
+    </div>
+</form>

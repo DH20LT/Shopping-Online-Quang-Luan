@@ -1,0 +1,8 @@
+E:\Thiết kế và phát triển website 2\ShoppingOnline1\ShoppingOnline1\obj\Debug\net7.0\ShoppingOnline1.csproj.AssemblyReference.cache
+E:\Thiết kế và phát triển website 2\ShoppingOnline1\ShoppingOnline1\obj\Debug\net7.0\ShoppingOnline1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Thiết kế và phát triển website 2\ShoppingOnline1\ShoppingOnline1\obj\Debug\net7.0\ShoppingOnline1.AssemblyInfoInputs.cache
+E:\Thiết kế và phát triển website 2\ShoppingOnline1\ShoppingOnline1\obj\Debug\net7.0\ShoppingOnline1.AssemblyInfo.cs
+E:\Thiết kế và phát triển website 2\ShoppingOnline1\ShoppingOnline1\obj\Debug\net7.0\ShoppingOnline1.csproj.CoreCompileInputs.cache
+E:\Thiết kế và phát triển website 2\ShoppingOnline1\ShoppingOnline1\obj\Debug\net7.0\ShoppingOnline1.MvcApplicationPartsAssemblyInfo.cache
+E:\Thiết kế và phát triển website 2\ShoppingOnline1\ShoppingOnline1\obj\Debug\net7.0\ShoppingOnline1.RazorAssemblyInfo.cache
+E:\Thiết kế và phát triển website 2\ShoppingOnline1\ShoppingOnline1\obj\Debug\net7.0\ShoppingOnline1.RazorAssemblyInfo.cs
