@@ -12,4 +12,6 @@ Do liên kết `~/Views/Shared/Component/NavigationMenuViewComponent/Default.csh
 
 ## Lỗi 2: Về View ProductManagement
 
+![image](https://user-images.githubusercontent.com/45689286/226090808-aaa661e2-6829-48b7-aa9e-67b3474261f7.png)
+
 Không tồn tại namespace với tên là Models
