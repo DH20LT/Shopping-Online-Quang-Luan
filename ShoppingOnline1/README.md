@@ -10,4 +10,6 @@ Do liên kết `~/Views/Shared/Component/NavigationMenuViewComponent/Default.csh
 
 => Cần tạo ra file này.
 
-## Lỗi 2
+## Lỗi 2: Về View ProductManagement
+
+Không tồn tại namespace với tên là Models
